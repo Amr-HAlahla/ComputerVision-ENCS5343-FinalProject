@@ -85,17 +85,20 @@ pip install tensorflow opencv-python numpy matplotlib
 The notebook was developed and tested using Kaggle's resources, which provide free access to GPUs for efficient model training. Alternatively, you can use platforms like Google Colab for similar benefits if local device resources are insufficient. To run the notebook:
 
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/Amr-HAlahla/ComputerVision-ENCS5343-FinalProject.git
-  ``
+  ```
+
 2. Navigate to the repository directory:
-   ```bash
+```bash
   cd ComputerVision-ENCS5343-FinalProject
   ```
+
 3. Open the Jupyter Notebook::
-   ```bash
+```bash
   jupyter notebook project_notebook.ipynb
-  ``
+  ```
+
 4. Run all cells to replicate the results and visualizations.
 
 **Note**: For Kaggle or Google Colab, upload the notebook file to the respective platform, adjust the dataset paths if necessary, and run the cells to execute the implementation.
