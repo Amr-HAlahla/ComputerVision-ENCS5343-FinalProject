@@ -17,6 +17,7 @@ This repository contains the implementation of a deep learning project that expl
 - Project-2024.pdf   # Description file for the project
 - CV-FinalProject-Report.pdf      # Final report for the project
 - README.md                 # Repository documentation
+```
 ---
 
 ## Methodology
@@ -79,22 +80,22 @@ This project requires the following dependencies:
 You can install the required libraries using the following command:
 ```bash
 pip install tensorflow opencv-python numpy matplotlib
-
+```
 ### How to Run
 The notebook was developed and tested using Kaggle's resources, which provide free access to GPUs for efficient model training. Alternatively, you can use platforms like Google Colab for similar benefits if local device resources are insufficient. To run the notebook:
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Amr-HAlahla/ComputerVision-ENCS5343-FinalProject.git
-
+  ``
 2. Navigate to the repository directory:
    ```bash
   cd ComputerVision-ENCS5343-FinalProject
-
+  ```
 3. Open the Jupyter Notebook::
    ```bash
   jupyter notebook project_notebook.ipynb
-
+  ``
 4. Run all cells to replicate the results and visualizations.
 
 **Note**: For Kaggle or Google Colab, upload the notebook file to the respective platform, adjust the dataset paths if necessary, and run the cells to execute the implementation.
